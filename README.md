@@ -16,3 +16,4 @@ The function we want to minimize or maximize is called the objective function or
 
 **What is the "chain rule" in gradient flow?**
 Chain rule is a method through which the weights are updated during back propagation in neural network through partial derivative tailor series . in which change of wegihts in one layer is not effected in any other layer  
+end
